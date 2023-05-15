@@ -7,6 +7,7 @@ eleventyNavigation:
   key: About
   weight: 2
 ---
+The Memphis Python User Group meets the third Monday of every month at 6:00 PM Central time.
 
 ### Memphis Python User Group Code of Conduct
 
